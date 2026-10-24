@@ -20,7 +20,7 @@
 
 ```lua
 vim.pack.add({
-  "https://codeberg.org/navahas/sanzo.nvim",
+  "https://github.com/duckpah/sanzo.nvim",
 })
 
 vim.cmd.colorscheme("sanzo")
